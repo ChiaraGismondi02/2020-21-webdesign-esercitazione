@@ -1,0 +1,12 @@
+ul{
+  list-style-type: none;
+}
+.{
+  float:center;
+  cursor: pointer;
+  width: 25px;
+  height: 25px;
+}
+p { 
+  text-align:right 
+  }
