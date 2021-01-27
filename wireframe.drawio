@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T08:41:45.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="nr2zDtr_IqrMbACWABTD" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T08:42:12.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="ivhiSofhbnF2E9KCF-ET" version="14.2.7" type="github">
   <diagram id="AioVaxwAggTM1YIc8hI-" name="Page-1">
     <mxGraphModel dx="723" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,10 +26,10 @@
           <mxGeometry x="350" y="340" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tMKfcTUunkBpZ0ji0AKX-12" value="Aggiungi ai preferiti" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="320" y="170" width="115" height="23" as="geometry" />
+          <mxGeometry x="327.5" y="180" width="115" height="23" as="geometry" />
         </mxCell>
         <mxCell id="tMKfcTUunkBpZ0ji0AKX-14" value="Aggiungi ai preferiti" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="320" y="290" width="115" height="23" as="geometry" />
+          <mxGeometry x="327.5" y="290" width="115" height="23" as="geometry" />
         </mxCell>
         <mxCell id="tMKfcTUunkBpZ0ji0AKX-15" value="Pitti Immagine Uomo&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="229" width="130" height="20" as="geometry" />
