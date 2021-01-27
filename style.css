@@ -1,12 +1,27 @@
 ul{
   list-style-type: none;
 }
-.{
+img{
   float:center;
   cursor: pointer;
-  width: 25px;
-  height: 25px;
+  width: 60px;
+  height: 60px;
 }
 p { 
-  text-align:right 
+  text-align:right; 
   }
+h2{
+  text-align:center;
+}
+input{
+  cursor: pointer;
+  background-color: #0000ff;
+  width: 180px;
+  height: 30px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
